@@ -1,3 +1,3 @@
-# merge-conflits
+LOCAL
 
 Ceci est un paragraphe.
