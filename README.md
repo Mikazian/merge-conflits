@@ -1,3 +1,3 @@
-# merge-conflits
+REMOTE
 
 Ceci est un paragraphe.
